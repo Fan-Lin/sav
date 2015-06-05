@@ -21,11 +21,29 @@ namespace sav
             switch (Type)
             {
                 case 1:
-                    break;
+                    int Typeofv;
+                    Console.WriteLine("圆柱（1）或圆锥（2）？");
+                    Typeofv = Convert.ToInt16(Console.ReadLine());
+                    switch (Typeofv)
+                    {
+                        case 1:
+                            //圆柱保留位置
+                            break;
+                        case 2:
+                            //圆锥保留位置
+                            break;
+                        default:
+                            //goto语句保留位置
+                            break;
+                    }
+
+                break;
                 case 2:
-                    braek;
+                    //表面积保留位置
+                break;
                 default:
-                    break;
+                    //goto语句保留位置
+                break;
             }
 
         }

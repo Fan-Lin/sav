@@ -1,1 +1,6 @@
 E:\Program Files\BegVCSharp\project\sav\sav\sav\bin\Debug\sav.exe.config
+E:\Program Files\BegVCSharp\project\sav\sav\sav\bin\Debug\sav.exe
+E:\Program Files\BegVCSharp\project\sav\sav\sav\bin\Debug\sav.pdb
+E:\Program Files\BegVCSharp\project\sav\sav\sav\obj\Debug\sav.csprojResolveAssemblyReference.cache
+E:\Program Files\BegVCSharp\project\sav\sav\sav\obj\Debug\sav.exe
+E:\Program Files\BegVCSharp\project\sav\sav\sav\obj\Debug\sav.pdb
