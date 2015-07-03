@@ -39,6 +39,11 @@ namespace sav
                         d = Convert.ToSingle(Console.ReadLine());
                         Overdooftype2 = 1;
                         break;
+                    case 3:
+                        Console.WriteLine("请输入底面积");
+                        s = Convert.ToSingle(Console.ReadLine());
+                        Overdooftype2 = 1;
+                        break;
                     default:
                         Overdooftype2 = 0;
                         break;
