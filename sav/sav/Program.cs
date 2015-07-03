@@ -29,9 +29,15 @@ namespace sav
                 {
                     case 1:
                         //半径保留位置
+                        Console.WriteLine("请输入半径");
+                        r = Convert.ToSingle(Console.ReadLine());
+                        Overdooftype2 = 1;
                         break;
                     case 2:
                         //直径保留位置
+                        Console.WriteLine("请输入直径");
+                        d = Convert.ToSingle(Console.ReadLine());
+                        Overdooftype2 = 1;
                         break;
                     default:
                         Overdooftype2 = 0;
